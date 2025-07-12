@@ -43,7 +43,7 @@ Built as part of the **Coding Samurai Internship Challenge**, this app uses a vo
 
 ## 🌐 Live App
 
-👉 https://coding-samurai-internship-task3-5cgu8qzvnw5g87px6np8ia.streamlit.app/
+👉https://coding-samurai-internship-task3-5cgu8qzvnw5g87px6np8ia.streamlit.app/
 
 ---
 
